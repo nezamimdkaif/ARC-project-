@@ -1,0 +1,2 @@
+# Data-Logger
+ Data Logger for Sensor Readings is a simple Python-based project that simulates temperature and humidity sensor data and logs it into a CSV file along with timestamps.  This project is designed as a beginner-friendly introduction to data logging, file handling in Python, and basic data visualization using Matplotlib. It can be extended to real-time IoT applications by integrating actual sensors like DHT11/DHT22.
