@@ -24,9 +24,6 @@ This project is built to record real-time data from sensors and store it in a si
 - `LICENSE` – open-source license for reuse
 
 ## Created By
-**Nezami M D Kaif**  
+**Nezami**  
 GitHub: [@nezamimdkaif](https://github.com/nezamimdkaif)
 
----
-
-This is a basic and useful project for anyone starting with data logging or working on sensor-based systems.
