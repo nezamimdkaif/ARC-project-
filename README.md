@@ -1,4 +1,4 @@
-# 📊 Data Logger for Sensor Readings
+# Data Logger for Sensor Readings
 
 This project is built to record real-time data from sensors and store it in a simple and readable format. It's designed to help with experiments, monitoring tasks, or any setup where you need to track sensor values over time.
 
